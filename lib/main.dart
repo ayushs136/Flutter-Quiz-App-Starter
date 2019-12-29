@@ -3,9 +3,10 @@ import 'package:flutter_starter/Result.dart';
 import './Result.dart';
 import './quiz.dart';
 
-void main() {
-  runApp(MyApp());
-}
+// void main() {
+//   runApp(MyApp());
+// }
+void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
   @override
