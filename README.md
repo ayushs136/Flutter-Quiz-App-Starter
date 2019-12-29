@@ -1,4 +1,4 @@
-# flutter_starter
+# Flutter-Quiz-App-Starter
 
 A new Flutter project.
 
